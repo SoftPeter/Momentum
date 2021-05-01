@@ -6,7 +6,7 @@ body{
     cursor: pointer;
 }
 
-h1 {
+body {
     color:royalblue;
     transition: color .5s ease-in-out;
 }
